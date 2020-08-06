@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f31292a8.chunk.css",
+    "main.js": "/static/js/main.b56b3dbc.chunk.js",
+    "main.js.map": "/static/js/main.b56b3dbc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.124e427d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.124e427d.js.map",
+    "static/js/2.b959b53e.chunk.js": "/static/js/2.b959b53e.chunk.js",
+    "static/js/2.b959b53e.chunk.js.map": "/static/js/2.b959b53e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.addc55e5335b684d22b77cd2a8a7eed1.js": "/precache-manifest.addc55e5335b684d22b77cd2a8a7eed1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f31292a8.chunk.css.map": "/static/css/main.f31292a8.chunk.css.map",
+    "static/js/2.b959b53e.chunk.js.LICENSE.txt": "/static/js/2.b959b53e.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/pokiDokiKorona.8f99ae92.png",
+    "static/media/favorit.svg": "/static/media/favorit.a181d7e9.svg",
+    "static/media/favoritActive.svg": "/static/media/favoritActive.04b34b0d.svg",
+    "static/media/loader.gif": "/static/media/loader.eeec63d5.gif",
+    "static/media/loaderPokemon.gif": "/static/media/loaderPokemon.b451cf45.gif",
+    "static/media/logo.png": "/static/media/logo.8d5e7c5b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.124e427d.js",
+    "static/js/2.b959b53e.chunk.js",
+    "static/css/main.f31292a8.chunk.css",
+    "static/js/main.b56b3dbc.chunk.js"
+  ]
+}
